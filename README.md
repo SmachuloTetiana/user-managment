@@ -6,7 +6,7 @@ It is application where you can login as an Admin and create, added, edit, delet
 
 ## Available Scripts
 
-Before the run application you need can create file .env.local and copy text below to this file:
+Before the run application you need create file .env.local and copy text below to this file:
 
 REACT_APP_FIREBASE_API_KEY=AIzaSyBgnLUZmWMyhJzal77eI8IaUKAOQ3cc9wo
 REACT_APP_FIREBASE_AUTH_DOMAIN=auth-f26dd.firebaseapp.com
